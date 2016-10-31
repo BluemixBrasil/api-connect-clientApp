@@ -1,0 +1,5 @@
+---
+applications:
+- name:    angular-restapi
+  host:    angular-restapi-27102016
+  memory:  256M

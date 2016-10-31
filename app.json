@@ -1,0 +1,8 @@
+{
+  "name": "Aplicacao de API",
+  "description": "A MEAN app that allows users to manage a list.",
+  "repository": "TBD",
+  "logo": "https://mlab.com/company/brand/resources/mLab-logo-onlight.png",
+  "keywords": ["node", "express", "angular", "MEAN", "mongodb", "REST", "API"],
+  "addons": ["mongolab"]
+}
